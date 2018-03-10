@@ -1,0 +1,1 @@
+export const shopifyAPIKey = '51fcb9e01b5ec369f3883497628c6d79';
